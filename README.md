@@ -5,7 +5,7 @@ This repository contains the code for the paper: Tentative
 
 
 *   Data provided by COLIEE Competition
-*   Pretrained model can be downloaded [here](#)
+*   Pretrained model can be downloaded [here](https://github.com/nguyenthanhasia/paraformer/releases/download/0.2/Paraformer.ckpt)
 
 
 ##Installation
