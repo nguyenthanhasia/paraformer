@@ -1,19 +1,19 @@
-#BertPara
+#Paraformer
 This repository contains the code for the paper: Tentative
 
 #Resource
 
 
 *   Data provided by COLIEE Competition
-*   Pretrained model can be downloaded [here](https://github.com/nguyenthanhasia/paraformer/releases/download/0.2/Paraformer.ckpt)
+*   Pretrained checkpoint can be downloaded [here](https://github.com/nguyenthanhasia/paraformer/releases/download/0.2/Paraformer.ckpt)
 
 
 ##Installation
 
 
 ```
-conda create -n bertpara python=3.6
-conda activate bertpara
+conda create -n paraformer python=3.6
+conda activate paraformer
 pip install -r requirements.txt
 ```
 
