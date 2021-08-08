@@ -1,14 +1,14 @@
-#Paraformer
+# Paraformer
 This repository contains the code for the paper: Tentative
 
-#Resource
+# Resource
 
 
 *   Data provided by COLIEE Competition
 *   Pretrained checkpoint can be downloaded [here](https://github.com/nguyenthanhasia/paraformer/releases/download/0.2/Paraformer.ckpt)
 
 
-##Installation
+## Installation
 
 
 ```
@@ -17,7 +17,7 @@ conda activate paraformer
 pip install -r requirements.txt
 ```
 
-##Training
+## Training
 
 ```
 python train.py \
@@ -26,7 +26,7 @@ python train.py \
   --max-epochs NUM_EPOCHES
 ```
 
-#Evaluating
+## Evaluating
 
 ```
 python eval.py \
