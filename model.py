@@ -13,7 +13,7 @@ def flat_accuracy(preds, labels):
 
 class Paraformer_Model(LightningModule):
     # Set up the classifier
-    def __init__(self,base_model="paraphrase-mpnet-base-v2"):
+    def __init__(self,base_model="paraphrase-xlm-r-multilingual-v1"):
         super().__init__()
         self.plm=SentenceTransformer(base_model)
         self.general_attn=Attention(768)
