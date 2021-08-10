@@ -1,12 +1,6 @@
 # Paraformer
 This repository contains the code for the paper: Tentative
 
-# Resource
-
-
-*   Data provided by COLIEE Competition
-*   Pretrained checkpoint can be downloaded [here](https://github.com/nguyenthanhasia/paraformer/releases/download/0.2/Paraformer.ckpt)
-
 
 ## Installation
 
