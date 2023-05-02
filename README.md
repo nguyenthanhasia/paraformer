@@ -1,5 +1,5 @@
 # Paraformer
-This repository contains the code for the paper: Tentative
+This repository contains the code for the paper: Attentive deep neural networks for legal document retrieval
 
 # Resource
 
@@ -35,4 +35,20 @@ python eval.py \
   --checkpoint CHECKPOINT_PATH \
   --bm25-top-n TOP_N \
   --alpha ALPHA
+```
+
+## Citation
+
+- Nguyen, H., Phi, M., Ngo, X., Tran, V., Nguyen, L., & Tu, M. (2022). Attentive deep neural networks for legal document retrieval. Artificial Intelligence and Law, 1-30. Springer.
+
+BibTeX:
+```bibtex
+@article{nguyen2022attentive,
+  title={Attentive deep neural networks for legal document retrieval},
+  author={Nguyen, Ha-Thanh and Phi, Manh-Kien and Ngo, Xuan-Bach and Tran, Vu and Nguyen, Le-Minh and Tu, Minh-Phuong},
+  journal={Artificial Intelligence and Law},
+  pages={1--30},
+  year={2022},
+  publisher={Springer}
+}
 ```
