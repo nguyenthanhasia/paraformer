@@ -6,6 +6,7 @@ This repository contains the code for the paper: Attentive deep neural networks 
 
 *   Data provided by COLIEE Competition
 *   Pretrained checkpoint can be downloaded [here](https://github.com/nguyenthanhasia/paraformer/releases/download/0.2/Paraformer.ckpt)
+*   Project page can be accessed [here](https://nguyenthanhasia.github.io/AttentiveDNN4LegalDocRetrieval/).
 
 
 ## Installation
